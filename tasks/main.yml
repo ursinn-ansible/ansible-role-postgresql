@@ -6,3 +6,5 @@
     app_keycloak_enabled|bool
     or
     app_sonarqube_enabled|bool
+    or
+    app_alice_lg_enabled|bool
